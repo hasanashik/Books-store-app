@@ -8,7 +8,9 @@ User will get following options in the app:
 5. Quit from App
 
 Files:
-app.py
-utils/database.py
-utils/database_context_manager.py
-utils/__init__.py
+1. app.py
+2. utils/database.py
+3. utils/database_context_manager.py
+4. utils/__init__.py
+
+
