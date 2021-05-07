@@ -6,3 +6,9 @@ User will get following options in the app:
 3. Update read status of a book
 4. Delete a book by name
 5. Quit from App
+
+Files:
+app.py
+utils/database.py
+utils/database_context_manager.py
+utils/__init__.py
